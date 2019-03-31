@@ -1,0 +1,4 @@
+﻿  parking2.cpp
+c:\users\pgina37\desktop\parking2\parking2\parking2.h(16): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 3 tiene el tipo 'LPVOID'
+  parking2.vcxproj -> C:\Users\pgina37\Desktop\parking2\Debug\parking2.exe
+  parking2.vcxproj -> C:\Users\pgina37\Desktop\parking2\Debug\parking2.pdb (Partial PDB)
